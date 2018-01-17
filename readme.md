@@ -2,4 +2,4 @@
 
 Screenshot:
 
-![MnC](screenshot.png)
+![MnC](screenshot.PNG)
